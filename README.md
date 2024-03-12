@@ -65,7 +65,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git  clone https://github.com/olezhka-borodenko/CuriosityBot-MD && cd CuriosityBot-MD && yarn install && npm install -MD1 && cd CuriosityBot-MD && yarn install && npm install
+git  clone https://github.com/Undefined17-borodenko/CuriosityBot-MD && cd CuriosityBot-MD && yarn install && npm install -MD1 && cd CuriosityBot-MD && yarn install && npm install
 ```
 
 ```bash
@@ -80,7 +80,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd CuriosityBot-MD1
+> cd CuriosityBot-MD2
 > rm -rf sessions
 > npm start
 ```
