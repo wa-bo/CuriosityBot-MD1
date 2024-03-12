@@ -65,7 +65,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Undefined18/CuriosityBot-MD1 && cd CuriosityBot-MD && yarn install && npm install
+git clonegit clone https://github.com/Undefined18/CuriosityBot-MD1 && cd CuriosityBot-MD && yarn install && npm install -MD1 && cd CuriosityBot-MD && yarn install && npm install
 ```
 
 ```bash
